@@ -12,11 +12,11 @@ Currently working at the Department of Intelligent Transport Systems 🚦
 Link to my [research](https://www.researchgate.net/profile/Lucija-Bukvic-2)
 
 📈 Working with:
-Python
-MATLAB
-SQL
-R
+Python, 
+MATLAB, 
+SQL, 
+R, 
 
 💻 Currently learning:
-JavaScript
+JavaScript, 
 Go
