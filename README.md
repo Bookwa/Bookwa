@@ -15,7 +15,7 @@ Link to my [research](https://www.researchgate.net/profile/Lucija-Bukvic-2)
 Python, 
 MATLAB, 
 SQL, 
-R, 
+R
 
 💻 Currently learning:
 JavaScript, 
