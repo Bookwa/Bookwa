@@ -9,7 +9,7 @@ Currently working at the Department of Intelligent Transport Systems 🚦
 🚚 Big data in logistics and supply chain
 🎲 Game theory in transport networks
 
-Link to [site_name](https://www.researchgate.net/profile/Lucija-Bukvic-2)
+Link to my [research](https://www.researchgate.net/profile/Lucija-Bukvic-2)
 
 📈 Working with:
 Python
