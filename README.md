@@ -1,6 +1,6 @@
 Hello! 👋
 
-ℹ I'm Lucija Bukvic, a teaching assistant and Ph.D. candidate at the Faculty of Transport and Traffic Sciences, University of Zagreb.
+ℹ I'm Lucija Bukvic, Ph.D., working at the Faculty of Transport and Traffic Sciences, University of Zagreb.
 Currently working at the Department of Intelligent Transport Systems 🚦
 
 📖 My research interests:
